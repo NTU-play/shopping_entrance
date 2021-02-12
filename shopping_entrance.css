@@ -3,6 +3,11 @@ body {
   background-attachment: fixed;
 }
 
+hr {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
 .container2 {
   height: 100vh;
   display: grid;
