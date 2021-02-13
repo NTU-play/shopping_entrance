@@ -1,3 +1,4 @@
+
 body {
   background-image: url("Putrajaya.jpg");
   background-attachment: fixed;
@@ -6,6 +7,10 @@ body {
 hr {
   margin-bottom: 0px;
   margin-top: 0px;
+}
+
+.instructionsDetails li a {
+  color: red;
 }
 
 .container2 {
@@ -155,7 +160,9 @@ div p {
   font-family: 'Sriracha', cursive;
 }
 
-
+.instructions h2{
+  font-size: 30px;
+}
 .instructions {
   padding-left: 20px;
   margin-bottom: 20px;
@@ -169,12 +176,8 @@ div p {
   opacity: 60%;
   padding-top: 30px;
   padding-bottom: 30px;
+  padding-right: 10px;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
-}
-
-
-.instructions h2 {
   font-size: 30px;
 }
 
